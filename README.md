@@ -1,4 +1,4 @@
-# MOF Agent
+# MOF-appfinder
 
 Intelligent MOF (Metal-Organic Framework) retrieval agent that uses LangGraph with dynamic weighted routing and ReAct to analyze a target MOF CIF file, search across multi-channel vector databases (SBU SOAP, ligand Morgan fingerprints, physical pore features), and produce an expert-level analysis report with literature enrichment.
 
